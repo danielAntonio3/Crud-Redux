@@ -1,0 +1,69 @@
+{
+  "productos": [
+    {
+      "nombre": "capuchino frio especial",
+      "precio": "100",
+      "id": "505abb1a-3d71-4dc4-8ca6-67a5e8609def"
+    },
+    {
+      "nombre": "capuchino moka",
+      "precio": 50,
+      "id": "31beed29-ec2e-4d20-82b5-42b8c8958b0c"
+    },
+    {
+      "nombre": "cafe",
+      "precio": 34,
+      "id": "f9088467-418e-45a9-a425-0295da497b8f"
+    },
+    {
+      "nombre": "chocolate calinete",
+      "precio": 12,
+      "id": "b6955449-0a2a-40aa-85c1-6407b6d20823"
+    },
+    {
+      "nombre": "cafe frío ",
+      "precio": 60,
+      "id": "bd3e54c5-22e1-48ff-9d53-5aa0becc97d1"
+    },
+    {
+      "nombre": "miel",
+      "precio": 40,
+      "id": "6888d6e0-6e12-492e-ae4a-e779e48af450"
+    },
+    {
+      "nombre": "limon",
+      "precio": 32,
+      "id": "98b5a3f4-2753-44f9-b990-b52e414e48b6"
+    },
+    {
+      "nombre": "Crepas",
+      "precio": 60,
+      "id": "3566c0dc-7639-42d9-8e0d-e45cbc7c3d5e"
+    },
+    {
+      "nombre": "fresas",
+      "precio": 100,
+      "id": "aa68b797-d2e8-4321-9faa-d3f0904ef5fb"
+    },
+    {
+      "nombre": "pollo",
+      "precio": 70,
+      "id": "6bbf1920-b5f4-411f-a227-950d08540ed2"
+    },
+    {
+      "nombre": "chilaquiles",
+      "precio": 45,
+      "id": "a3025b74-7523-4677-90f4-854658b6c88e"
+    },
+    {
+      "nombre": "cafe",
+      "precio": 34,
+      "id": "dd52a05f-bd89-4abf-acdc-37ebbeb42745"
+    },
+    {
+      "nombre": "totopos",
+      "precio": 56,
+      "id": "9155236f-ee71-4583-a785-99d970d54d8a"
+    }
+  ]
+}
